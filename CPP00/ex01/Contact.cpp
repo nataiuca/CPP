@@ -1,5 +1,5 @@
 #include "Contact.hpp"
-#include <unistd.h>
+#include <cstdlib>
 
 Contact::Contact() {}
 
