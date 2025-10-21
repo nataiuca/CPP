@@ -2,7 +2,7 @@
 
 int main() {
     int N = 5;
-    Zombie* horde = zombieHorde(N, "Walker");
+    Zombie* horde = zombieHorde(N, "Brainy");
 
     if (!horde) {
         std::cout << "Error: invalid horde size." << std::endl;
